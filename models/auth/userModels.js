@@ -11,7 +11,7 @@ const userSchema = new Schema({
     password: {
         type: String, required: true
     },
-    username: { type: String, unique: true },
+    username: { type: String, default: "", unique: true },
     profilePic: { type: String, default: "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1758980337/Avatar_optimized_gxxtqo.jpg" },
     isVerified: { type: Boolean, default: false },
     isLogin: { type: Boolean, default: false },

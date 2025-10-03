@@ -1,0 +1,2642 @@
+[
+  {
+    "id": 101,
+    "name": "Tomato",
+    "description": "Fresh red tomatoes, perfect for salads and cooking.",
+    "price": 200,
+    "unit": "kg",
+    "stock": 120,
+    "category": "Vegetables",
+    "discountPrice": 178,
+    "totalReviews": 85,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473162/EMART/ov8goi9zjwyvxt5lyl5i.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473225/EMART/lstttg1ejharceo2cg6v.png"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Potato",
+    "description": "Organic potatoes, ideal for frying, boiling, or baking.",
+    "price": 144,
+    "unit": "kg",
+    "stock": 200,
+    "category": "Vegetables",
+    "discountPrice": 129,
+    "totalReviews": 98,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473074/EMART/vbrd5mkkgut4byxsdo8i.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473210/EMART/d1kott5f5k76ssn5ing4.png"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Carrot",
+    "description": "Crunchy and sweet carrots, perfect for snacks and cooking.",
+    "price": 240,
+    "unit": "kg",
+    "stock": 150,
+    "category": "Vegetables",
+    "discountPrice": 193,
+    "totalReviews": 105,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473079/EMART/amntbwgitybvsbhg5nlf.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473246/EMART/dr53pgdpfwvyacx63jwc.png"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cucumber",
+    "description": "Fresh cucumbers for salads and sandwiches.",
+    "price": 120,
+    "unit": "kg",
+    "stock": 100,
+    "category": "Vegetables",
+    "discountPrice": 105,
+    "totalReviews": 150,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473074/EMART/v64izwk0qtaaihlsyi4v.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473244/EMART/hfocwgjllhgzevuwoc9d.png"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Bell Pepper",
+    "description": "Colorful bell peppers, rich in vitamin C.",
+    "price": 320,
+    "unit": "kg",
+    "stock": 80,
+    "category": "Vegetables",
+    "discountPrice": 284,
+    "totalReviews": 263,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473119/EMART/t8nmmqisrfsrpx0hays7.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473221/EMART/yhqr863ukvk7x44nj2bh.png"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Onion",
+    "description": "Fresh onions, a staple for all dishes.",
+    "price": 160,
+    "unit": "kg",
+    "stock": 220,
+    "category": "Vegetables",
+    "discountPrice": 137,
+    "totalReviews": 396,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473115/EMART/kez91ebhntecqedvaywo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473220/EMART/urqubrvjbfohhthpdvmm.png"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Garlic",
+    "description": "Aromatic garlic for cooking and seasoning.",
+    "price": 480,
+    "unit": "kg",
+    "stock": 60,
+    "category": "Vegetables",
+    "discountPrice": 411,
+    "totalReviews": 55,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473158/EMART/qcte5emubiwwrrh5fiu6.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473249/EMART/utwl2fgvwlyauhrr7pvx.png"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Spinach",
+    "description": "Fresh green spinach, packed with nutrients.",
+    "price": 224,
+    "unit": "kg",
+    "stock": 140,
+    "category": "Vegetables",
+    "discountPrice": 182,
+    "totalReviews": 426,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473115/EMART/wcvrtelaetfuxaugmxeb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473297/EMART/ftcbn3tta8kegwbsostw.png"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Broccoli",
+    "description": "Organic broccoli florets, rich in vitamins.",
+    "price": 400,
+    "unit": "kg",
+    "stock": 90,
+    "category": "Vegetables",
+    "discountPrice": 330,
+    "totalReviews": 417,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473144/EMART/jjlu38e2so6jqzy59huh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473307/EMART/wdnz8qlzguqsdyp3uza7.png"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Cauliflower",
+    "description": "Fresh cauliflower, perfect for curries and roasting.",
+    "price": 320,
+    "unit": "kg",
+    "stock": 110,
+    "category": "Vegetables",
+    "discountPrice": 272,
+    "totalReviews": 150,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473180/EMART/w9ntga35q4xf5vdyhvdr.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473270/EMART/ijrugi47f9ubyra8bgzt.png"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Green Beans",
+    "description": "Fresh green beans for healthy meals.",
+    "price": 280,
+    "unit": "kg",
+    "stock": 130,
+    "category": "Vegetables",
+    "discountPrice": 249,
+    "totalReviews": 334,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473171/EMART/syadkkl531hbpuh01qve.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473264/EMART/t5zg0juxeo3ic0bhpbyo.png"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Eggplant",
+    "description": "Organic eggplants for roasting and stews.",
+    "price": 240,
+    "unit": "kg",
+    "stock": 100,
+    "category": "Vegetables",
+    "discountPrice": 193,
+    "totalReviews": 209,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473112/EMART/riq390znn99cqp7t1zhl.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473214/EMART/voyk5btcosnv7blnd2hp.png"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Zucchini",
+    "description": "Fresh zucchinis, ideal for stir-fries.",
+    "price": 256,
+    "unit": "kg",
+    "stock": 80,
+    "category": "Vegetables",
+    "discountPrice": 222,
+    "totalReviews": 174,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473110/EMART/ca4avlmvrtjwnnsdinrm.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473257/EMART/yjytodc52wzebzl6nydz.png"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Lettuce",
+    "description": "Crisp lettuce for salads and sandwiches.",
+    "price": 160,
+    "unit": "kg",
+    "stock": 120,
+    "category": "Vegetables",
+    "discountPrice": 130,
+    "totalReviews": 53,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473120/EMART/eg9zmzvvfu2ryxpwcvi0.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473263/EMART/iy12nev47lpx1ud38j32.png"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Cabbage",
+    "description": "Fresh cabbage, perfect for cooking and salads.",
+    "price": 144,
+    "unit": "kg",
+    "stock": 150,
+    "category": "Vegetables",
+    "discountPrice": 120,
+    "totalReviews": 483,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473141/EMART/pisnhnfigkeywyzjghwp.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473214/EMART/g1pqrmkfnsvlwjup87ef.png"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Apple",
+    "description": "Fresh and juicy apples from local farms.",
+    "price": 320,
+    "unit": "kg",
+    "stock": 100,
+    "category": "Fruits",
+    "discountPrice": 263,
+    "totalReviews": 237,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474667/EMART/pzrplsqlxrhhh3wf9bdh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474716/EMART/ivqhifosno8pfd1lwtbk.png"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Banana",
+    "description": "Ripe bananas full of energy and vitamins.",
+    "price": 96,
+    "unit": "kg",
+    "stock": 180,
+    "category": "Fruits",
+    "discountPrice": 83,
+    "totalReviews": 363,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474654/EMART/hyev8xxwytbkkeaky9ew.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474727/EMART/a3icqh1fgrxctxtsncpd.png"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Orange",
+    "description": "Fresh oranges rich in vitamin C.",
+    "price": 240,
+    "unit": "kg",
+    "stock": 120,
+    "category": "Fruits",
+    "discountPrice": 209,
+    "totalReviews": 98,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474626/EMART/cywdpdsfueqhg4i2hbkg.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474729/EMART/fhojmtel52ngxcl6tfjk.png"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Mango",
+    "description": "Sweet and juicy mangoes, seasonal special.",
+    "price": 400,
+    "unit": "kg",
+    "stock": 80,
+    "category": "Fruits",
+    "discountPrice": 328,
+    "totalReviews": 243,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474668/EMART/fc4rfdmxuluze4gwidwf.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474731/EMART/fyemphb2um1hdfzcslqk.png"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Grapes",
+    "description": "Fresh grapes, perfect for snacking.",
+    "price": 360,
+    "unit": "kg",
+    "stock": 90,
+    "category": "Fruits",
+    "discountPrice": 316,
+    "totalReviews": 321,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474633/EMART/qgrwzl0ybug3ghnqzjnb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474735/EMART/nr0uhn8x9dafgzucujtp.png"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Strawberry",
+    "description": "Fresh strawberries, sweet and tangy.",
+    "price": 480,
+    "unit": "kg",
+    "stock": 70,
+    "category": "Fruits",
+    "discountPrice": 414,
+    "totalReviews": 289,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474674/EMART/xx8lzsmyxmvwchxrl3qr.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474781/EMART/phrpulyhpmffoxueufn7.png"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Pineapple",
+    "description": "Tropical pineapple, sweet and juicy.",
+    "price": 280,
+    "unit": "kg",
+    "stock": 60,
+    "category": "Fruits",
+    "discountPrice": 228,
+    "totalReviews": 110,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474627/EMART/e5l8cyb9vuwkjcp0sgmt.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474757/EMART/ks2sbve0cznb4bj2fkse.png"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Papaya",
+    "description": "Fresh papaya, perfect for breakfast.",
+    "price": 224,
+    "unit": "kg",
+    "stock": 50,
+    "category": "Fruits",
+    "discountPrice": 187,
+    "totalReviews": 479,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474640/EMART/onzthgo45nz4q6smsc5u.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474802/EMART/m2dmtuh8cv4urmsn9boo.png"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Kiwi",
+    "description": "Tangy kiwi rich in vitamin C.",
+    "price": 400,
+    "unit": "kg",
+    "stock": 40,
+    "category": "Fruits",
+    "discountPrice": 330,
+    "totalReviews": 251,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474633/EMART/fpphgqxumhecrwnq2s4e.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474788/EMART/fskn6wl1jjaojgkpx20g.png"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Watermelon",
+    "description": "Juicy watermelon, perfect for summer.",
+    "price": 120,
+    "unit": "kg",
+    "stock": 100,
+    "category": "Fruits",
+    "discountPrice": 98,
+    "totalReviews": 370,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474651/EMART/jftzgt6uj2fakwasl9s1.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474802/EMART/yq2pqyrpcstudgvzhjxg.png"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Pomegranate",
+    "description": "Sweet and healthy pomegranate.",
+    "price": 480,
+    "unit": "kg",
+    "stock": 60,
+    "category": "Fruits",
+    "discountPrice": 394,
+    "totalReviews": 449,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474671/EMART/mgtzuqmm3qn9lxfmdbsu.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474764/EMART/rxujzoromwngxdib9eez.png"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Blueberry",
+    "description": "Fresh blueberries, rich in antioxidants.",
+    "price": 640,
+    "unit": "kg",
+    "stock": 40,
+    "category": "Fruits",
+    "discountPrice": 532,
+    "totalReviews": 381,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474634/EMART/xwhkhdvekfbzzewcpwdo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474756/EMART/xzyi7fnk9rc9emahuiqt.png"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Lemon",
+    "description": "Fresh lemons, perfect for drinks and cooking.",
+    "price": 160,
+    "unit": "kg",
+    "stock": 90,
+    "category": "Fruits",
+    "discountPrice": 139,
+    "totalReviews": 252,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474641/EMART/laa6zosvbf0l7rrmv1ca.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474774/EMART/iyivxl1c924yyxdw1rsq.png"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Cherry",
+    "description": "Fresh cherries, sweet and juicy.",
+    "price": 560,
+    "unit": "kg",
+    "stock": 50,
+    "category": "Fruits",
+    "discountPrice": 476,
+    "totalReviews": 133,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474665/EMART/pw8ry2icx4auovwvac0k.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474777/EMART/ff982xodjp1wqbgmwc3v.png"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Guava",
+    "description": "Fresh guava, high in vitamin C.",
+    "price": 240,
+    "unit": "kg",
+    "stock": 80,
+    "category": "Fruits",
+    "discountPrice": 196,
+    "totalReviews": 156,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474668/EMART/mkw4ake8nkcqkfktkp80.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474752/EMART/z63ji2q9emfs8eno4f3x.png"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Orange Juice",
+    "description": "Freshly squeezed orange juice, no added sugar.",
+    "price": 280,
+    "unit": "liter",
+    "stock": 80,
+    "category": "Drinks",
+    "discountPrice": 250,
+    "totalReviews": 301,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472829/EMART/gigjvxiibhrybvqjzul0.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472916/EMART/yulzpmwyvaa9vkj4ffvz.png"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Mineral Water",
+    "description": "Pure mineral water in bottles of 1 liter.",
+    "price": 80,
+    "unit": "liter",
+    "stock": 250,
+    "category": "Drinks",
+    "discountPrice": 65,
+    "totalReviews": 326,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472818/EMART/duyorrvoa7tuxvbfz6l9.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472921/EMART/xflkvxz9puqd3tcih6rh.png"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Apple Juice",
+    "description": "Natural apple juice, no preservatives.",
+    "price": 320,
+    "unit": "liter",
+    "stock": 70,
+    "category": "Drinks",
+    "discountPrice": 256,
+    "totalReviews": 339,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472826/EMART/l8fhbl9s2lt7b1pol143.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472902/EMART/sko8qtm1ka07q9r8vsdh.png"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Mango Juice",
+    "description": "Tropical mango juice, sweet and refreshing.",
+    "price": 360,
+    "unit": "liter",
+    "stock": 60,
+    "category": "Drinks",
+    "discountPrice": 293,
+    "totalReviews": 195,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472831/EMART/mf0m6w8u1aexabjqxrnh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472902/EMART/zlg9fnmawtffpos3xlyh.png"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Cola Drink",
+    "description": "Carbonated soft drink, 330ml can.",
+    "price": 96,
+    "unit": "can",
+    "stock": 150,
+    "category": "Drinks",
+    "discountPrice": 83,
+    "totalReviews": 476,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472842/EMART/jnoans1edyussyua4ntp.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472905/EMART/ap1pbwhqzle2hxycykbn.png"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Lemonade",
+    "description": "Refreshing lemonade, perfect for summer.",
+    "price": 200,
+    "unit": "liter",
+    "stock": 80,
+    "category": "Drinks",
+    "discountPrice": 163,
+    "totalReviews": 471,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472828/EMART/kgmkay7sa3jsdcajnthb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472899/EMART/dq1v64zqxehw8tqzfdab.png"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Green Tea",
+    "description": "Organic green tea, healthy and refreshing.",
+    "price": 280,
+    "unit": "box",
+    "stock": 50,
+    "category": "Drinks",
+    "discountPrice": 243,
+    "totalReviews": 219,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472828/EMART/imgxqhuttukwhssnl2op.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472923/EMART/uedjbwbiftvwfjpxl878.png"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Coffee",
+    "description": "Premium ground coffee, rich aroma.",
+    "price": 480,
+    "unit": "250g",
+    "stock": 60,
+    "category": "Drinks",
+    "discountPrice": 402,
+    "totalReviews": 121,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472829/EMART/nh33slv9oumspmryghoc.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472908/EMART/jpwfylznifyqbdtfzpol.png"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Energy Drink",
+    "description": "Boost your energy with these drinks.",
+    "price": 160,
+    "unit": "can",
+    "stock": 90,
+    "category": "Drinks",
+    "discountPrice": 134,
+    "totalReviews": 467,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472823/EMART/wksdb5evfrox1kzarxma.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472898/EMART/fxffchnvnpmuuyoabsa6.png"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Coconut Water",
+    "description": "Fresh coconut water, natural and refreshing.",
+    "price": 240,
+    "unit": "liter",
+    "stock": 70,
+    "category": "Drinks",
+    "discountPrice": 212,
+    "totalReviews": 385,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472842/EMART/bx1xhliqhrj4nfjp7iyz.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472919/EMART/em2m6ejxbywihd0rjiqj.png"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Iced Tea",
+    "description": "Refreshing iced tea, lightly sweetened.",
+    "price": 200,
+    "unit": "liter",
+    "stock": 80,
+    "category": "Drinks",
+    "discountPrice": 178,
+    "totalReviews": 467,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472843/EMART/htb9efqv5di8gryhbwtj.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472916/EMART/c8czpf5xx1fqitfzabw5.png"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Chocolate Milk",
+    "description": "Sweet chocolate flavored milk, 500ml.",
+    "price": 160,
+    "unit": "bottle",
+    "stock": 60,
+    "category": "Drinks",
+    "discountPrice": 144,
+    "totalReviews": 192,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472829/EMART/glapkh6zlpfqrxfaifne.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472886/EMART/zeflkdm9rudxyxa3qfzy.png"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Strawberry Milkshake",
+    "description": "Delicious strawberry milkshake, ready to drink.",
+    "price": 200,
+    "unit": "bottle",
+    "stock": 70,
+    "category": "Drinks",
+    "discountPrice": 172,
+    "totalReviews": 199,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472842/EMART/imtbgxgoikyldwwyjlsy.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472901/EMART/lbcjpuworfbu2wzxv7qd.png"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Tomato Juice",
+    "description": "Fresh tomato juice, healthy and natural.",
+    "price": 240,
+    "unit": "liter",
+    "stock": 50,
+    "category": "Drinks",
+    "discountPrice": 194,
+    "totalReviews": 300,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472838/EMART/ypw5rlh4yu6sf9yjzwhg.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472899/EMART/bzditlc9qbgeafuzlvnh.png"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Pineapple Juice",
+    "description": "Tropical pineapple juice, no added sugar.",
+    "price": 320,
+    "unit": "liter",
+    "stock": 60,
+    "category": "Drinks",
+    "discountPrice": 274,
+    "totalReviews": 438,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472839/EMART/m0ovcwb2fbk5qdfdcfra.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759472921/EMART/v0xfgk2eimm0ndvivpgb.png"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Potato Chips",
+    "description": "Crispy salted potato chips, 200g pack.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 150,
+    "category": "Snacks",
+    "discountPrice": 133,
+    "totalReviews": 197,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475365/EMART/vvryvyoorf7z5yuotra2.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475529/EMART/fssuw6hcquwc1iiolzfx.png"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Nachos",
+    "description": "Crunchy corn nachos, perfect with dips.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Snacks",
+    "discountPrice": 162,
+    "totalReviews": 127,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475317/EMART/u7jbowtegwz0g0gar1np.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475488/EMART/do2ruysunej7gptqaoap.png"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Popcorn",
+    "description": "Lightly salted popcorn, ready to eat.",
+    "price": 144,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Snacks",
+    "discountPrice": 117,
+    "totalReviews": 70,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475363/EMART/virjsx9h5mg57odidpp9.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475540/EMART/e4y82wndnkjwpqu1pjje.png"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Peanuts",
+    "description": "Roasted salted peanuts, high in protein.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 90,
+    "category": "Snacks",
+    "discountPrice": 192,
+    "totalReviews": 416,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475326/EMART/owrfgonllua0fl85wv0f.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475545/EMART/tjhbufwqnnp2hopo3ty1.png"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Trail Mix",
+    "description": "Healthy mix of nuts and dried fruits.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Snacks",
+    "discountPrice": 321,
+    "totalReviews": 260,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475389/EMART/cxc8ba8i7lvcbbj2xuwa.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475502/EMART/jwgmbn0wyubxrv5f4so7.png"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Chocolate Bar",
+    "description": "Rich and creamy chocolate bars.",
+    "price": 120,
+    "unit": "piece",
+    "stock": 200,
+    "category": "Snacks",
+    "discountPrice": 101,
+    "totalReviews": 481,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475347/EMART/wgymcwuvqtgx5bqo7jsb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475502/EMART/mkkzyxlrufsfl3r4txoq.png"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Biscuits",
+    "description": "Crunchy butter biscuits for tea time.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 150,
+    "category": "Snacks",
+    "discountPrice": 138,
+    "totalReviews": 445,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475386/EMART/vulhlv3uh0ukclqivgsz.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475510/EMART/mrpxwulfkn6ca31tm0kx.png"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Cookies",
+    "description": "Chocolate chip cookies, freshly baked.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Snacks",
+    "discountPrice": 193,
+    "totalReviews": 227,
+    "rating": 3.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475404/EMART/vyftizj7xpr5xt8hsgpj.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475507/EMART/e5x0c1yorouqqd4xei9w.png"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Pretzels",
+    "description": "Crunchy salted pretzels, perfect snack.",
+    "price": 176,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Snacks",
+    "discountPrice": 148,
+    "totalReviews": 358,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475373/EMART/aare0crq6cmxbra5mzes.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475510/EMART/grvh0jenfsakqkszvwzm.png"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Corn Flakes",
+    "description": "Healthy breakfast cereal, 500g pack.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Snacks",
+    "discountPrice": 270,
+    "totalReviews": 184,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475347/EMART/ms2diyod4xheffxjuw0i.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475522/EMART/pwzmvskcowcg1kn4obfj.png"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Granola Bars",
+    "description": "Nutritious granola bars for on-the-go.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 90,
+    "category": "Snacks",
+    "discountPrice": 164,
+    "totalReviews": 157,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475384/EMART/v8wfo1i8thl1lshfbyvn.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475530/EMART/vtujahs2yz9s5vmlrwlf.png"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Rice Cakes",
+    "description": "Low-calorie rice cakes, perfect with peanut butter.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Snacks",
+    "discountPrice": 205,
+    "totalReviews": 107,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475371/EMART/kk2faqcc5zjv8esylyfo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475559/EMART/vwhmneppbs0wfli6f9b8.png"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Trail Cookies",
+    "description": "Healthy cookies made with oats and nuts.",
+    "price": 256,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Snacks",
+    "discountPrice": 213,
+    "totalReviews": 480,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475353/EMART/bdfwxif6gxeqs7zrqnbn.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475493/EMART/pa4wfxdktxyjyezd2ckp.png"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Fruit Gummies",
+    "description": "Soft and chewy fruit flavored gummies.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Snacks",
+    "discountPrice": 128,
+    "totalReviews": 256,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475364/EMART/qqse0ft2vg0kzpzzxjo5.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475483/EMART/bgkru1e3d8q4p48rgyax.png"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Cheese Crackers",
+    "description": "Savory cheese flavored crackers.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Snacks",
+    "discountPrice": 201,
+    "totalReviews": 71,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475366/EMART/rguvdjumslp3typlxynz.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475496/EMART/vxfbgz7duo3xj4ro1ydt.png"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Turmeric Powder",
+    "description": "Premium quality turmeric powder for cooking.",
+    "price": 120,
+    "unit": "100g",
+    "stock": 100,
+    "category": "Flavors & Spices",
+    "discountPrice": 98,
+    "totalReviews": 288,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476738/EMART/nhrbvhztvgawpszcsfz1.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476816/EMART/wjfvcjhrdw5wvmiauu19.png"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Red Chili Powder",
+    "description": "Spicy red chili powder, adds heat to dishes.",
+    "price": 160,
+    "unit": "100g",
+    "stock": 120,
+    "category": "Flavors & Spices",
+    "discountPrice": 141,
+    "totalReviews": 76,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476689/EMART/alal4rqmdb60nhuus4vd.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476797/EMART/i1xhdjr65ktahcesweiq.png"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Black Pepper",
+    "description": "Freshly ground black pepper, aromatic.",
+    "price": 240,
+    "unit": "50g",
+    "stock": 80,
+    "category": "Flavors & Spices",
+    "discountPrice": 204,
+    "totalReviews": 369,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476722/EMART/yhq1mrn4mw5gjg2plhpg.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476771/EMART/jav9ok8jdoyscoy2l8qz.png"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Cumin Seeds",
+    "description": "Fragrant cumin seeds for cooking.",
+    "price": 144,
+    "unit": "100g",
+    "stock": 100,
+    "category": "Flavors & Spices",
+    "discountPrice": 119,
+    "totalReviews": 135,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476742/EMART/gmxmyl38fvtlivnaqtiy.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476812/EMART/xnnb0reioxqpr1gcsbcj.png"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Coriander Powder",
+    "description": "Aromatic coriander powder, ideal for curries.",
+    "price": 160,
+    "unit": "100g",
+    "stock": 90,
+    "category": "Flavors & Spices",
+    "discountPrice": 143,
+    "totalReviews": 313,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476665/EMART/v2t1o5oginrukghmxuek.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476815/EMART/pjdhkgrp49s10wa1orfi.png"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Garam Masala",
+    "description": "Blended spices for authentic Indian flavors.",
+    "price": 240,
+    "unit": "100g",
+    "stock": 70,
+    "category": "Flavors & Spices",
+    "discountPrice": 211,
+    "totalReviews": 276,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476669/EMART/fulamis2jczpwpfoekgv.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476773/EMART/syenn6ixv9jzohwvok2n.png"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Cloves",
+    "description": "Aromatic whole cloves for cooking and baking.",
+    "price": 320,
+    "unit": "50g",
+    "stock": 60,
+    "category": "Flavors & Spices",
+    "discountPrice": 278,
+    "totalReviews": 499,
+    "rating": 3.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476703/EMART/fwzhzb2uvp2jlz1gcs2i.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476800/EMART/bjjgzr8y9rxwql1vcizb.png"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Cinnamon Powder",
+    "description": "Sweet cinnamon powder for desserts and beverages.",
+    "price": 200,
+    "unit": "50g",
+    "stock": 80,
+    "category": "Flavors & Spices",
+    "discountPrice": 168,
+    "totalReviews": 306,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476743/EMART/nrhqnfhoe0qszsy92vim.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476792/EMART/lryoopnhmfrestshvtpk.png"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Cardamom",
+    "description": "Green cardamom pods, fragrant and flavorful.",
+    "price": 400,
+    "unit": "50g",
+    "stock": 50,
+    "category": "Flavors & Spices",
+    "discountPrice": 332,
+    "totalReviews": 131,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476728/EMART/rahlemomcqbduvg7zq09.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476821/EMART/vywhi2g1qhvqmedp3yww.png"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Mustard Seeds",
+    "description": "Pungent mustard seeds for seasoning.",
+    "price": 120,
+    "unit": "100g",
+    "stock": 100,
+    "category": "Flavors & Spices",
+    "discountPrice": 100,
+    "totalReviews": 343,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476718/EMART/je5qujahn1eqsto3aynx.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476768/EMART/fko2ds3zthn5tc5mof6b.png"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Fennel Seeds",
+    "description": "Sweet fennel seeds for digestion and flavor.",
+    "price": 160,
+    "unit": "100g",
+    "stock": 80,
+    "category": "Flavors & Spices",
+    "discountPrice": 130,
+    "totalReviews": 494,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476730/EMART/mu32czcd1aple4af89lb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476832/EMART/fd4fq4qfpztealtlewsr.png"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Bay Leaves",
+    "description": "Dried bay leaves for soups and stews.",
+    "price": 144,
+    "unit": "50g",
+    "stock": 70,
+    "category": "Flavors & Spices",
+    "discountPrice": 126,
+    "totalReviews": 462,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476738/EMART/sbnl7jzuwlasskzdqcnh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476810/EMART/q4ojeafpjoi67pgbuwyq.png"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Nutmeg",
+    "description": "Ground nutmeg, aromatic for desserts.",
+    "price": 240,
+    "unit": "50g",
+    "stock": 60,
+    "category": "Flavors & Spices",
+    "discountPrice": 197,
+    "totalReviews": 106,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476711/EMART/udf5iuc1gnnacreumjxl.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476792/EMART/xrbm9ktprz6eol4aolpu.png"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Ginger Powder",
+    "description": "Ground ginger for cooking and baking.",
+    "price": 160,
+    "unit": "50g",
+    "stock": 90,
+    "category": "Flavors & Spices",
+    "discountPrice": 132,
+    "totalReviews": 408,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476666/EMART/srgffwqosehc82hfnwkx.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476841/EMART/jt1hzedlkctsfekjqpox.png"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Fried Onion",
+    "description": "Crispy fried onion for garnishing.",
+    "price": 200,
+    "unit": "100g",
+    "stock": 100,
+    "category": "Flavors & Spices",
+    "discountPrice": 161,
+    "totalReviews": 98,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476722/EMART/yye8rckkmziu36kicaer.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476814/EMART/qortudek4fvkbrzpvhxz.png"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Chicken Breast",
+    "description": "Fresh boneless chicken breast, high protein.",
+    "price": 480,
+    "unit": "kg",
+    "stock": 50,
+    "category": "Meat",
+    "discountPrice": 396,
+    "totalReviews": 451,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474116/EMART/zzjzqf4z7jahzxkqdc9v.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474402/EMART/o2tv0ud8ggo11zhbgsjq.png"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Chicken Thigh",
+    "description": "Juicy chicken thigh pieces, perfect for roasting.",
+    "price": 440,
+    "unit": "kg",
+    "stock": 40,
+    "category": "Meat",
+    "discountPrice": 356,
+    "totalReviews": 107,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474072/EMART/qxjrisfr6tknqpt0dhz2.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474328/EMART/vhern2obgcxic1kdjif5.png"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Mutton",
+    "description": "Fresh mutton, ideal for curries.",
+    "price": 960,
+    "unit": "kg",
+    "stock": 30,
+    "category": "Meat",
+    "discountPrice": 805,
+    "totalReviews": 375,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474153/EMART/hfscczqna5yd8isvyzpr.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474346/EMART/otklrx2mxr7w9eeqgieb.png"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Beef",
+    "description": "Premium quality beef cuts.",
+    "price": 800,
+    "unit": "kg",
+    "stock": 25,
+    "category": "Meat",
+    "discountPrice": 718,
+    "totalReviews": 264,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474120/EMART/tpw4zomvfz5wyk7khkb8.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474309/EMART/rhwee5osopcbluxmqqxm.png"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Pork",
+    "description": "Fresh pork pieces for cooking.",
+    "price": 640,
+    "unit": "kg",
+    "stock": 20,
+    "category": "Meat",
+    "discountPrice": 559,
+    "totalReviews": 360,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474112/EMART/n0iz9auwrsndmt0oyhrq.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474400/EMART/d7fo3wz1pbsmsriaza4n.png"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Fish Fillet",
+    "description": "Fresh fish fillet, rich in omega-3.",
+    "price": 720,
+    "unit": "kg",
+    "stock": 35,
+    "category": "Meat",
+    "discountPrice": 621,
+    "totalReviews": 133,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474162/EMART/aeizp9xitsyptgyx59if.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474363/EMART/p28dsho7dcug2vbwscyf.png"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Shrimp",
+    "description": "Fresh shrimp, perfect for seafood dishes.",
+    "price": 1200,
+    "unit": "kg",
+    "stock": 20,
+    "category": "Meat",
+    "discountPrice": 1036,
+    "totalReviews": 498,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474073/EMART/biwstu07p4taqazpn7ig.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474369/EMART/z32uozxhuhngfzftvlhl.png"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Chicken Wings",
+    "description": "Juicy chicken wings for grilling and frying.",
+    "price": 400,
+    "unit": "kg",
+    "stock": 50,
+    "category": "Meat",
+    "discountPrice": 358,
+    "totalReviews": 233,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474064/EMART/xjcyamlxz8pnevdnmcli.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474391/EMART/tc1ytdftqah5e05d3gqj.png"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Turkey",
+    "description": "Fresh turkey meat for roasting.",
+    "price": 880,
+    "unit": "kg",
+    "stock": 15,
+    "category": "Meat",
+    "discountPrice": 792,
+    "totalReviews": 494,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474142/EMART/lcnfhavlqj5pa3axlmzf.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474380/EMART/qbvsyvxdogfar4cawena.png"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Lamb Chops",
+    "description": "Tender lamb chops for grilling.",
+    "price": 1120,
+    "unit": "kg",
+    "stock": 20,
+    "category": "Meat",
+    "discountPrice": 986,
+    "totalReviews": 267,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474152/EMART/uotxfxkkl5d1xrghnkml.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474384/EMART/k1gy8az7nxshj9hl5ndu.png"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "Chicken Drumsticks",
+    "description": "Fresh drumsticks for baking and frying.",
+    "price": 416,
+    "unit": "kg",
+    "stock": 45,
+    "category": "Meat",
+    "discountPrice": 352,
+    "totalReviews": 331,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474152/EMART/rhovr0bxvvzu3blbeued.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474348/EMART/xufvlbyclk7egd9qmbet.png"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "Crab",
+    "description": "Fresh crab, ideal for seafood lovers.",
+    "price": 1440,
+    "unit": "kg",
+    "stock": 10,
+    "category": "Meat",
+    "discountPrice": 1217,
+    "totalReviews": 428,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474102/EMART/ok3ghwkt0lbxui6adqmi.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474353/EMART/wum5hgrsllygwffje8ph.png"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Salmon",
+    "description": "Fresh salmon fillet, high in omega-3.",
+    "price": 1600,
+    "unit": "kg",
+    "stock": 15,
+    "category": "Meat",
+    "discountPrice": 1314,
+    "totalReviews": 80,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474144/EMART/myn5ky5dq1xibb2uxeea.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474358/EMART/ag1ednstxe2uncqkmqsn.png"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Prawns",
+    "description": "Large fresh prawns, perfect for grilling.",
+    "price": 1280,
+    "unit": "kg",
+    "stock": 12,
+    "category": "Meat",
+    "discountPrice": 1111,
+    "totalReviews": 384,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474122/EMART/zrbeyijicmdiuxmhmrrz.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474309/EMART/xwaqdsjcrswry4ofqwim.png"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Bacon",
+    "description": "Smoked bacon slices for breakfast.",
+    "price": 640,
+    "unit": "pack",
+    "stock": 30,
+    "category": "Meat",
+    "discountPrice": 537,
+    "totalReviews": 98,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474152/EMART/r0cq1ckrwurwsxhmpvko.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474401/EMART/cltbn0ptsowc9wvizif1.png"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "Milk",
+    "description": "Fresh cow milk, full cream.",
+    "price": 96,
+    "unit": "liter",
+    "stock": 200,
+    "category": "Dairy & Eggs",
+    "discountPrice": 85,
+    "totalReviews": 86,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474444/EMART/eb2pcly7vejvqdetdwxd.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474521/EMART/qphgsnwskxy6lqaaxjvv.png"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "Cheese",
+    "description": "Matured cheddar cheese, 200g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Dairy & Eggs",
+    "discountPrice": 259,
+    "totalReviews": 445,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474478/EMART/c7pq0jjikgjpghkxhcv6.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474561/EMART/d9edbybcbi5zfo7tscyk.png"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Butter",
+    "description": "Creamy unsalted butter, 250g.",
+    "price": 280,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Dairy & Eggs",
+    "discountPrice": 248,
+    "totalReviews": 226,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474448/EMART/zoidyw1kfqaqok56aneo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474523/EMART/qqpqp3dszleuz30dfrpc.png"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Yogurt",
+    "description": "Fresh plain yogurt, probiotic rich.",
+    "price": 160,
+    "unit": "cup",
+    "stock": 150,
+    "category": "Dairy & Eggs",
+    "discountPrice": 138,
+    "totalReviews": 97,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474480/EMART/e1bacujyzqt3tfmov3ll.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474562/EMART/vwememfi7hkowploucsy.png"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Paneer",
+    "description": "Soft Indian cottage cheese, 200g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Dairy & Eggs",
+    "discountPrice": 208,
+    "totalReviews": 424,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474474/EMART/c9snqqa640ecrvlvqnmx.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474534/EMART/r53fqqdpsxgc1e6ucvrw.png"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Eggs",
+    "description": "Fresh farm eggs, dozen pack.",
+    "price": 200,
+    "unit": "dozen",
+    "stock": 180,
+    "category": "Dairy & Eggs",
+    "discountPrice": 162,
+    "totalReviews": 432,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474475/EMART/b8cycfnjylaovozgueky.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474568/EMART/drfnrgxyg0usvl8ynfoo.png"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Cream",
+    "description": "Thick fresh cream for cooking and desserts.",
+    "price": 240,
+    "unit": "cup",
+    "stock": 90,
+    "category": "Dairy & Eggs",
+    "discountPrice": 207,
+    "totalReviews": 456,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474453/EMART/ssi5yslc1iiivhkm9jcb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474540/EMART/l7m2worclknxc9dmspun.png"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "Flavored Milk",
+    "description": "Chocolate flavored milk, 500ml.",
+    "price": 160,
+    "unit": "bottle",
+    "stock": 100,
+    "category": "Dairy & Eggs",
+    "discountPrice": 144,
+    "totalReviews": 437,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474474/EMART/fkxkqccding8es0j825r.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474561/EMART/qqvy1h6yrdsek8ik6stj.png"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Sour Cream",
+    "description": "Tangy sour cream for dips.",
+    "price": 200,
+    "unit": "cup",
+    "stock": 80,
+    "category": "Dairy & Eggs",
+    "discountPrice": 177,
+    "totalReviews": 342,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474479/EMART/u6dq0mufi2zayfmkw900.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474562/EMART/eenu5df0uyytwbalyh3o.png"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "Cottage Cheese",
+    "description": "Fresh and soft cottage cheese, 200g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Dairy & Eggs",
+    "discountPrice": 202,
+    "totalReviews": 464,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474471/EMART/jpmcvgjtuf29ngg8ec8d.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474566/EMART/q3h9ytm9xzyw9tx8g6yy.png"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Ghee",
+    "description": "Pure clarified butter, 500g.",
+    "price": 560,
+    "unit": "jar",
+    "stock": 60,
+    "category": "Dairy & Eggs",
+    "discountPrice": 499,
+    "totalReviews": 225,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474470/EMART/hfsu0nkkbkammreyzsal.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474573/EMART/npqntfpvgulnldhijzt0.png"
+    ]
+  },
+  {
+    "id": 712,
+    "name": "Cheese Slices",
+    "description": "Processed cheese slices, 200g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Dairy & Eggs",
+    "discountPrice": 204,
+    "totalReviews": 485,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474459/EMART/nirvhwabtadedk7fzxjx.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474556/EMART/co2vlg3l6xxl7q2scmjo.png"
+    ]
+  },
+  {
+    "id": 713,
+    "name": "Kefir",
+    "description": "Probiotic fermented milk drink, 500ml.",
+    "price": 320,
+    "unit": "bottle",
+    "stock": 50,
+    "category": "Dairy & Eggs",
+    "discountPrice": 283,
+    "totalReviews": 308,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474451/EMART/mer1qj4rxssl0jclgbgo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474555/EMART/euulp28hokilmysbbyue.png"
+    ]
+  },
+  {
+    "id": 714,
+    "name": "Whipped Cream",
+    "description": "Ready-to-use whipped cream, 250ml.",
+    "price": 280,
+    "unit": "can",
+    "stock": 40,
+    "category": "Dairy & Eggs",
+    "discountPrice": 228,
+    "totalReviews": 416,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474470/EMART/rllt3sbvkayod0iwzxey.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474554/EMART/kmk9iceqfs8c1yx6w4hr.png"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "Chocolate Milk",
+    "description": "Delicious chocolate milk, 500ml.",
+    "price": 160,
+    "unit": "bottle",
+    "stock": 100,
+    "category": "Dairy & Eggs",
+    "discountPrice": 136,
+    "totalReviews": 53,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474446/EMART/t4nzamaybxqj1clksahr.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474534/EMART/yxrpfej4aiyo3ttthkvr.png"
+    ]
+  },
+  {
+    "id": 801,
+    "name": "White Bread",
+    "description": "Soft white bread loaf, 400g.",
+    "price": 160,
+    "unit": "loaf",
+    "stock": 120,
+    "category": "Bakery & Bread",
+    "discountPrice": 141,
+    "totalReviews": 241,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473649/EMART/xdog4b7nmxek1gpbcmth.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473771/EMART/dleu2nz7566fv9hosqea.png"
+    ]
+  },
+  {
+    "id": 802,
+    "name": "Brown Bread",
+    "description": "Healthy whole wheat brown bread.",
+    "price": 200,
+    "unit": "loaf",
+    "stock": 100,
+    "category": "Bakery & Bread",
+    "discountPrice": 170,
+    "totalReviews": 415,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473653/EMART/lykmw5wine4qzwdkm0ti.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473761/EMART/lj8iiuqufwqis6dsc7vx.png"
+    ]
+  },
+  {
+    "id": 803,
+    "name": "Buns",
+    "description": "Soft and fresh burger buns, pack of 6.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Bakery & Bread",
+    "discountPrice": 139,
+    "totalReviews": 322,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473610/EMART/tkdrfjb0dnmybxqwibng.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473726/EMART/dmkn6v4ls9pba8ienx8n.png"
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Croissants",
+    "description": "Flaky buttery croissants, pack of 4.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Bakery & Bread",
+    "discountPrice": 258,
+    "totalReviews": 474,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473558/EMART/kajwvftrirjpz5wch04t.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473694/EMART/hjcbbgq3ldfettdkeoga.png"
+    ]
+  },
+  {
+    "id": 805,
+    "name": "Muffins",
+    "description": "Chocolate muffins, pack of 6.",
+    "price": 280,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Bakery & Bread",
+    "discountPrice": 226,
+    "totalReviews": 259,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473628/EMART/ikg1u82145vbobyrspxu.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473762/EMART/eqftiwza9gtbjanhriwi.png"
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Bagels",
+    "description": "Fresh bagels, perfect for sandwiches.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 50,
+    "category": "Bakery & Bread",
+    "discountPrice": 212,
+    "totalReviews": 344,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473640/EMART/kiiyyrkstq9it2sqjdbt.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473762/EMART/zza9nmrrcoyxntgevh9o.png"
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Sandwich Bread",
+    "description": "Soft sandwich bread loaf, 400g.",
+    "price": 160,
+    "unit": "loaf",
+    "stock": 100,
+    "category": "Bakery & Bread",
+    "discountPrice": 131,
+    "totalReviews": 489,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473613/EMART/wbh0l6rf8j1asha4ysil.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473750/EMART/bq3fufdamibxs3l21ry7.png"
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Whole Wheat Bread",
+    "description": "Healthy whole wheat bread loaf.",
+    "price": 200,
+    "unit": "loaf",
+    "stock": 90,
+    "category": "Bakery & Bread",
+    "discountPrice": 166,
+    "totalReviews": 458,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473556/EMART/xqccps7vkotckjtcujim.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473724/EMART/bprwrp8wrk3abjhblwvt.png"
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Doughnuts",
+    "description": "Sweet glazed doughnuts, pack of 6.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Bakery & Bread",
+    "discountPrice": 209,
+    "totalReviews": 335,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473610/EMART/hsbgnmt31nuhdhlfjt0n.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473764/EMART/hwpnxmtwbtqhllhzliug.png"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Cake Loaf",
+    "description": "Soft vanilla cake loaf, 400g.",
+    "price": 320,
+    "unit": "loaf",
+    "stock": 50,
+    "category": "Bakery & Bread",
+    "discountPrice": 269,
+    "totalReviews": 79,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473610/EMART/woyctxnwsqbrznztxkqd.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473726/EMART/g2wfcihn05j2lvuipvy5.png"
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Pizza Base",
+    "description": "Ready-to-bake pizza base, 300g.",
+    "price": 240,
+    "unit": "piece",
+    "stock": 70,
+    "category": "Bakery & Bread",
+    "discountPrice": 203,
+    "totalReviews": 273,
+    "rating": 3.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473568/EMART/lil6uuyuqkyb6e1t67pq.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473677/EMART/vewcjhw0mahemu7v85lk.png"
+    ]
+  },
+  {
+    "id": 812,
+    "name": "Bread Rolls",
+    "description": "Soft bread rolls, pack of 8.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Bakery & Bread",
+    "discountPrice": 168,
+    "totalReviews": 212,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473616/EMART/ljgratgdhz1ddwbdnlof.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473748/EMART/zpmsbvureqmbpummxmcf.png"
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Focaccia",
+    "description": "Italian style focaccia bread, 250g.",
+    "price": 320,
+    "unit": "piece",
+    "stock": 40,
+    "category": "Bakery & Bread",
+    "discountPrice": 276,
+    "totalReviews": 413,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473601/EMART/blg2n7x3hnpnbsww4agm.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473697/EMART/junutepttcbwonzw93rk.png"
+    ]
+  },
+  {
+    "id": 814,
+    "name": "Garlic Bread",
+    "description": "Garlic flavored bread, 200g.",
+    "price": 240,
+    "unit": "piece",
+    "stock": 50,
+    "category": "Bakery & Bread",
+    "discountPrice": 204,
+    "totalReviews": 113,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473647/EMART/cbm2puwmdecf2vjgl2zt.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473732/EMART/fwodzzmpd6mxh2fkytnk.png"
+    ]
+  },
+  {
+    "id": 815,
+    "name": "Brioche",
+    "description": "Soft and buttery brioche, 250g.",
+    "price": 360,
+    "unit": "piece",
+    "stock": 40,
+    "category": "Bakery & Bread",
+    "discountPrice": 323,
+    "totalReviews": 490,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473595/EMART/ner0m5hn99wr8gtznya9.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759473725/EMART/n9sepfjpo9z6wltqzxqa.png"
+    ]
+  },
+  {
+    "id": 901,
+    "name": "Frozen Peas",
+    "description": "Green frozen peas, 500g.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Frozen Foods",
+    "discountPrice": 139,
+    "totalReviews": 334,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476479/EMART/wlpl4buuxd9e6gnk2zkv.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476609/EMART/nhscofqlbfloraona3gx.png"
+    ]
+  },
+  {
+    "id": 902,
+    "name": "Frozen Corn",
+    "description": "Sweet frozen corn kernels, 500g.",
+    "price": 160,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Frozen Foods",
+    "discountPrice": 138,
+    "totalReviews": 385,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476463/EMART/pq88gtunedxtlchaggmn.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476527/EMART/u7kpiuiijzms1sja7dlo.png"
+    ]
+  },
+  {
+    "id": 903,
+    "name": "Frozen Mixed Vegetables",
+    "description": "Mixed vegetables, 500g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Frozen Foods",
+    "discountPrice": 192,
+    "totalReviews": 433,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476400/EMART/owwnkd5xqqj9rpoqc5yh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476563/EMART/uiwtoakj25a0k7zpzmm7.png"
+    ]
+  },
+  {
+    "id": 904,
+    "name": "Frozen Fish",
+    "description": "Fresh frozen fish fillets, 500g.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Frozen Foods",
+    "discountPrice": 345,
+    "totalReviews": 414,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476478/EMART/ris5i87dkddcn1agccak.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476593/EMART/zgjcgaawohf7k4usm7ww.png"
+    ]
+  },
+  {
+    "id": 905,
+    "name": "Frozen Chicken",
+    "description": "Frozen chicken pieces, 1kg.",
+    "price": 480,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Frozen Foods",
+    "discountPrice": 426,
+    "totalReviews": 456,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476476/EMART/iuwoc1s5wbqxczv7hkte.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476581/EMART/kkbuxzoskw1p9datbfmj.png"
+    ]
+  },
+  {
+    "id": 906,
+    "name": "Frozen Shrimp",
+    "description": "Frozen shrimp, 500g.",
+    "price": 800,
+    "unit": "pack",
+    "stock": 40,
+    "category": "Frozen Foods",
+    "discountPrice": 682,
+    "totalReviews": 299,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476463/EMART/eggkhqzpooaiasijbikq.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476555/EMART/pv5akiplgozqyzabqhda.png"
+    ]
+  },
+  {
+    "id": 907,
+    "name": "Ice Cream",
+    "description": "Vanilla ice cream, 500ml.",
+    "price": 280,
+    "unit": "tub",
+    "stock": 80,
+    "category": "Frozen Foods",
+    "discountPrice": 225,
+    "totalReviews": 117,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476466/EMART/kldaetumuqilkwohkmnn.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476527/EMART/rqci29leceun6vmlv3ef.png"
+    ]
+  },
+  {
+    "id": 908,
+    "name": "Frozen Pizza",
+    "description": "Ready-to-bake frozen pizza, 400g.",
+    "price": 400,
+    "unit": "piece",
+    "stock": 60,
+    "category": "Frozen Foods",
+    "discountPrice": 345,
+    "totalReviews": 471,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476462/EMART/rem1vyandjf24c36em5f.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476536/EMART/clg6utfombpriz5oza2c.png"
+    ]
+  },
+  {
+    "id": 909,
+    "name": "Frozen Burgers",
+    "description": "Frozen beef burgers, pack of 4.",
+    "price": 480,
+    "unit": "pack",
+    "stock": 50,
+    "category": "Frozen Foods",
+    "discountPrice": 408,
+    "totalReviews": 118,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476424/EMART/klaamqmqocbtejf7r7ik.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476579/EMART/cqg2u2h0fxgp7zvqbcrp.png"
+    ]
+  },
+  {
+    "id": 910,
+    "name": "Frozen French Fries",
+    "description": "Crispy frozen fries, 500g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Frozen Foods",
+    "discountPrice": 205,
+    "totalReviews": 115,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476449/EMART/soirz92z5tb9paedtx9e.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476543/EMART/rowrnqwftldls7sloa6h.png"
+    ]
+  },
+  {
+    "id": 911,
+    "name": "Frozen Berries",
+    "description": "Mixed frozen berries, 500g.",
+    "price": 480,
+    "unit": "pack",
+    "stock": 50,
+    "category": "Frozen Foods",
+    "discountPrice": 425,
+    "totalReviews": 405,
+    "rating": 3.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476424/EMART/d3xvbkp1ptxqqhlv30wh.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476618/EMART/eorvtdnlsbe3mqddx7mm.png"
+    ]
+  },
+  {
+    "id": 912,
+    "name": "Frozen Dosa Batter",
+    "description": "Ready-to-cook dosa batter, 1kg.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Frozen Foods",
+    "discountPrice": 161,
+    "totalReviews": 89,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476443/EMART/mt3ftf8smgcnypqth50u.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476565/EMART/frcpjetg7namszqqr5s6.png"
+    ]
+  },
+  {
+    "id": 913,
+    "name": "Frozen Paratha",
+    "description": "Frozen whole wheat paratha, pack of 6.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Frozen Foods",
+    "discountPrice": 209,
+    "totalReviews": 475,
+    "rating": 3.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476430/EMART/brwwln0bufsrcjxuuo38.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476608/EMART/bdm8ppl7ufmc8sayhnte.png"
+    ]
+  },
+  {
+    "id": 914,
+    "name": "Frozen Waffles",
+    "description": "Ready-to-toast waffles, pack of 4.",
+    "price": 280,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Frozen Foods",
+    "discountPrice": 238,
+    "totalReviews": 322,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476435/EMART/khm2esuuw4piyzmpg5a5.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476621/EMART/obh5a9ohw7qvvw5qcslg.png"
+    ]
+  },
+  {
+    "id": 915,
+    "name": "Frozen Spinach",
+    "description": "Frozen spinach leaves, 500g.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 90,
+    "category": "Frozen Foods",
+    "discountPrice": 170,
+    "totalReviews": 355,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476487/EMART/rw4plxhtxfjrxa7odyp6.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759476601/EMART/kuaxs9jlehfpgbqynbvl.png"
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "Baked Beans",
+    "description": "Canned baked beans in tomato sauce, 400g.",
+    "price": 160,
+    "unit": "can",
+    "stock": 100,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 132,
+    "totalReviews": 88,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474948/EMART/nnz8th26mlkqosq6u0d3.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475043/EMART/exvtnphcepq284ryoorh.png"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Canned Corn",
+    "description": "Sweet corn kernels in can, 400g.",
+    "price": 160,
+    "unit": "can",
+    "stock": 120,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 141,
+    "totalReviews": 204,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474915/EMART/xkp2hlqmoxllvnhsjovj.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475014/EMART/ftqwk0xgsyg0n6qqeuat.png"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Canned Tuna",
+    "description": "Chunk light tuna in water, 180g.",
+    "price": 240,
+    "unit": "can",
+    "stock": 80,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 210,
+    "totalReviews": 213,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474925/EMART/gkmuzi2khka9pcf1fzcb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475051/EMART/g1ih6dxddtjoi2ust6wc.png"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Canned Chicken",
+    "description": "Canned shredded chicken, 200g.",
+    "price": 280,
+    "unit": "can",
+    "stock": 70,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 234,
+    "totalReviews": 109,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474950/EMART/syshhnxit52m23ou4rzi.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475040/EMART/to6vt5a2xceynr7ey9vg.png"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Canned Tomatoes",
+    "description": "Diced canned tomatoes, 400g.",
+    "price": 160,
+    "unit": "can",
+    "stock": 100,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 141,
+    "totalReviews": 418,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474920/EMART/ju9g3w9brcrjzz6mgf7i.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475029/EMART/uqehgb4ady6dnbzw4nzj.png"
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Tomato Paste",
+    "description": "Concentrated tomato paste, 200g.",
+    "price": 144,
+    "unit": "can",
+    "stock": 90,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 128,
+    "totalReviews": 429,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474973/EMART/qqdr6rseffmfclq2v9fx.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475039/EMART/atvwrsyp3gghibu5uldl.png"
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Pickles",
+    "description": "Spicy mixed vegetable pickles, 300g.",
+    "price": 200,
+    "unit": "jar",
+    "stock": 80,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 175,
+    "totalReviews": 167,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474946/EMART/wyoq1ygjxvolnhnezifp.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475015/EMART/idqaczbja3ygkc7t5q3n.png"
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Olives",
+    "description": "Green olives in brine, 200g.",
+    "price": 240,
+    "unit": "jar",
+    "stock": 70,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 204,
+    "totalReviews": 345,
+    "rating": 4.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474912/EMART/atwawpwglat61xehjobo.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475006/EMART/os6yen9djmoucbzpk2of.png"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Canned Pineapple",
+    "description": "Sliced pineapple in syrup, 400g.",
+    "price": 240,
+    "unit": "can",
+    "stock": 60,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 201,
+    "totalReviews": 455,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474924/EMART/kza911p83ldsslcz8igc.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475018/EMART/ju6djuiaudyvfkvlv2es.png"
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Coconut Milk",
+    "description": "Canned coconut milk, 400ml.",
+    "price": 200,
+    "unit": "can",
+    "stock": 80,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 161,
+    "totalReviews": 286,
+    "rating": 4.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474935/EMART/peg8qohqmxlwz4b5ujgp.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475042/EMART/usoodynvnwvfvnppbmxx.png"
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "Pasta Sauce",
+    "description": "Tomato basil pasta sauce, 400g.",
+    "price": 240,
+    "unit": "jar",
+    "stock": 70,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 210,
+    "totalReviews": 68,
+    "rating": 4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474950/EMART/nmlr6v6pzews7nzyhev4.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475030/EMART/g3x4j3frmdh2dzydslsb.png"
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Canned Mushrooms",
+    "description": "Sliced canned mushrooms, 200g.",
+    "price": 240,
+    "unit": "can",
+    "stock": 60,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 194,
+    "totalReviews": 201,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474956/EMART/dfgjkv1wijxx7n3rqaol.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475030/EMART/h0mdy1x2kf90m1b7tvq5.png"
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Instant Noodles",
+    "description": "Quick-cook instant noodles, 85g.",
+    "price": 80,
+    "unit": "pack",
+    "stock": 150,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 67,
+    "totalReviews": 256,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474975/EMART/ao0wemuftwt03mbxqur4.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475026/EMART/xqqiekekdiabjooikzfr.png"
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "Soup",
+    "description": "Ready-to-eat tomato soup, 400g.",
+    "price": 200,
+    "unit": "can",
+    "stock": 80,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 178,
+    "totalReviews": 202,
+    "rating": 4.1,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474926/EMART/yc9zfjcaf05bwez4fyi5.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475030/EMART/ijjkj6koixwzdyooxmxv.png"
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "Ready-to-Eat Meals",
+    "description": "Microwave-ready meals, 300g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 50,
+    "category": "Canned & Packaged Foods",
+    "discountPrice": 274,
+    "totalReviews": 334,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759474923/EMART/o1j4aadlqwcoqonprsrm.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475051/EMART/dcbnqetb2kefvf8ela18.png"
+    ]
+  },
+  {
+    "id": 1101,
+    "name": "Cornflakes",
+    "description": "Classic cornflakes cereal, 500g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 120,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 288,
+    "totalReviews": 123,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475142/EMART/is7bnjzavenzh4pyw519.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475259/EMART/lqyeqspl7xjiyfu0d7ac.png"
+    ]
+  },
+  {
+    "id": 1102,
+    "name": "Oats",
+    "description": "Rolled oats for healthy breakfast, 500g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 198,
+    "totalReviews": 459,
+    "rating": 4.8,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475114/EMART/nagsn8jjjqdealzot6jl.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475259/EMART/b2rcqzjgsavrknod8d2w.png"
+    ]
+  },
+  {
+    "id": 1103,
+    "name": "Muesli",
+    "description": "Mixed muesli with nuts and dried fruits, 400g.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 359,
+    "totalReviews": 69,
+    "rating": 3.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475141/EMART/ajxt8wk58sdhbiiq12wa.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475222/EMART/wem2ddsmy4to0mydb3al.png"
+    ]
+  },
+  {
+    "id": 1104,
+    "name": "Porridge",
+    "description": "Instant porridge oats, 400g.",
+    "price": 280,
+    "unit": "pack",
+    "stock": 90,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 225,
+    "totalReviews": 240,
+    "rating": 4.7,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475145/EMART/eavbqp31ospbec94cjw3.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475271/EMART/jonk6fmvx1sekmvnuiks.png"
+    ]
+  },
+  {
+    "id": 1105,
+    "name": "Instant Porridge",
+    "description": "Quick-cook porridge, 250g.",
+    "price": 200,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 165,
+    "totalReviews": 74,
+    "rating": 5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475118/EMART/tmeozuwnxhukdbbuc0k7.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475232/EMART/wxx3t4sxdxwoezg7neze.png"
+    ]
+  },
+  {
+    "id": 1106,
+    "name": "Breakfast Bars",
+    "description": "Nutritious breakfast bars, pack of 6.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 100,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 203,
+    "totalReviews": 171,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475157/EMART/zmzwxbrkcltpzn4zpynb.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475271/EMART/nz1ryfk5n5sobjakqpvo.png"
+    ]
+  },
+  {
+    "id": 1107,
+    "name": "Granola",
+    "description": "Crunchy granola mix, 400g.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 336,
+    "totalReviews": 100,
+    "rating": 4.3,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475169/EMART/vfo3qhf9uo4fnpdshgpd.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475233/EMART/jcfhinbn6oirdgqjnrhl.png"
+    ]
+  },
+  {
+    "id": 1108,
+    "name": "Cereal Mix",
+    "description": "Multigrain cereal mix, 400g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 280,
+    "totalReviews": 97,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475159/EMART/zxakyyq1rqhxwc0orc9n.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475220/EMART/hyfwfjiitkintxqxpbqy.png"
+    ]
+  },
+  {
+    "id": 1109,
+    "name": "Choco Cereal",
+    "description": "Chocolate flavored cereal, 400g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 90,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 287,
+    "totalReviews": 317,
+    "rating": 4.5,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475148/EMART/g4nsrzqo1h6z62f6ygzd.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475229/EMART/qlbeubbdvovalzv8sgiq.png"
+    ]
+  },
+  {
+    "id": 1110,
+    "name": "Rice Puffs",
+    "description": "Light crispy rice puffs cereal, 400g.",
+    "price": 240,
+    "unit": "pack",
+    "stock": 80,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 198,
+    "totalReviews": 207,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475168/EMART/dzlarqegp0nquzg6vy6y.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475247/EMART/ng8pkura2u6c8jl48yn6.png"
+    ]
+  },
+  {
+    "id": 1111,
+    "name": "Wheaties",
+    "description": "Healthy wheat flakes, 500g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 269,
+    "totalReviews": 140,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475146/EMART/nhfusctvdjufiju6h7if.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475271/EMART/khqxdpa64ozkqvjlmmv9.png"
+    ]
+  },
+  {
+    "id": 1112,
+    "name": "Bran Flakes",
+    "description": "High fiber bran flakes, 400g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 276,
+    "totalReviews": 484,
+    "rating": 3.6,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475182/EMART/aw75lgeodximi9bkfir7.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475279/EMART/oqbn6cldjhwjf5k2bzdo.png"
+    ]
+  },
+  {
+    "id": 1113,
+    "name": "Quinoa Flakes",
+    "description": "Nutritious quinoa flakes, 300g.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 50,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 347,
+    "totalReviews": 400,
+    "rating": 4.4,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475117/EMART/lbtc7mqxl4xv3ti6a6lw.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475270/EMART/uxfjtvr6wusprxvcbmu8.png"
+    ]
+  },
+  {
+    "id": 1114,
+    "name": "Protein Cereal",
+    "description": "High protein cereal, 400g.",
+    "price": 400,
+    "unit": "pack",
+    "stock": 60,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 354,
+    "totalReviews": 388,
+    "rating": 3.9,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475144/EMART/bbqmiyodg7pt4wvdwuaz.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475219/EMART/dku7xvvbzugqjgylp0uy.png"
+    ]
+  },
+  {
+    "id": 1115,
+    "name": "Wheat Biscuits",
+    "description": "Healthy wheat biscuits for breakfast, 400g.",
+    "price": 320,
+    "unit": "pack",
+    "stock": 70,
+    "category": "Breakfast & Cereals",
+    "discountPrice": 284,
+    "totalReviews": 292,
+    "rating": 4.2,
+    "images": [
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475120/EMART/z69kbjhowoyhu7wufawn.png",
+      "https://res.cloudinary.com/dlwe2wlwl/image/upload/v1759475246/EMART/v5dnroqi25iss0joalqb.png"
+    ]
+  }
+]

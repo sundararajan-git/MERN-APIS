@@ -100,7 +100,7 @@ export const login = asyncHandler(async (req, res) => {
 
     const safeUser = sanitaize(user, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
 
-    user.jwtToken = await generateJwtToken(user._id)
+    const jwtToken = await generateJwtToken(user._id)
 
     res.status(200).json({ message: "User logged in successfully", user: { ...safeUser, jwtToken }, status: "LOGINED" })
 })
@@ -125,18 +125,14 @@ export const verifyEmail = asyncHandler(async (req, res) => {
         throw new AppError("User not found", 400)
     }
 
-    if (user.verificationToken !== code) {
-        throw new AppError("Invalid Code", 400);
-
+    if (user.isVerified) {
+        throw new AppError("Email already verified", 400)
     }
 
     if (user.verificationExpireAt < Date.now()) {
         throw new AppError("Verification Code Expired", 400)
     }
 
-    if (user.isVerified) {
-        throw new AppError("Email already verified", 400)
-    }
     if (user.verificationToken !== code) {
         throw new AppError("Invalid Code", 400)
     }
