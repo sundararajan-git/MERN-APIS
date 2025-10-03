@@ -37,7 +37,7 @@ const creatApp = async () => {
         standardHeaders: true,
         legacyHeaders: false,
     })
-    app.use(limiter)
+    // app.use(limiter)
 
     const apiRoutes = (await import('./routes/index.js')).default;
     app.use("/api", apiRoutes)
