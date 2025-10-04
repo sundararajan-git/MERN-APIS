@@ -1,7 +1,7 @@
 import jwt from "jsonwebtoken";
 import { AppError } from "../utils/AppError.js"
 
-export const verifyToken = (req, res, next) => {
+export const validUser = (req, res, next) => {
     try {
         const authHeader = req.headers.authorization;
 

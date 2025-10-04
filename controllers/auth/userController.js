@@ -102,7 +102,7 @@ export const login = asyncHandler(async (req, res) => {
 
     const jwtToken = await generateJwtToken(user._id)
 
-    res.status(200).json({ message: "User logged in successfully", user: { ...safeUser, jwtToken }, status: "LOGINED" })
+    res.status(200).json({ message: "User logged in successfully", user: { ...safeUser }, jwtToken, status: "LOGINED" })
 })
 
 export const verifyEmail = asyncHandler(async (req, res) => {
@@ -224,6 +224,12 @@ export const logout = asyncHandler(async (req, res) => {
     await user.save();
 
     res.status(200).json({ message: "User logged out successfully", status: "LOGOUT" })
+})
+
+export const getUser = asyncHandler(async (req, res) => {
+    const user = await User.findOne({ _id: req.userId })
+    const safeUser = sanitaize(user, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
+    return res.status(200).json({ user: safeUser, status: "USER EXITS" })
 })
 
 
