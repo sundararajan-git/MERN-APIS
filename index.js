@@ -88,3 +88,26 @@ async function deleteOne() {
 // deleteOne()
 
 // uploadImage();
+
+// ---------------------------------------------------------------------------------------------------------
+
+import mongoose from "mongoose";
+
+const localUri = "mongodb://localhost:27017/EMART";
+const atlasUri = process.env.MONGO_URI_EMART;
+
+async function migrateCollection(collectionName) {
+    const localConn = await mongoose.createConnection(localUri);
+    const atlasConn = await mongoose.createConnection(atlasUri);
+
+    const LocalModel = localConn.model(collectionName, new mongoose.Schema({}, { strict: false }));
+    const AtlasModel = atlasConn.model(collectionName, new mongoose.Schema({}, { strict: false }));
+
+    const docs = await LocalModel.find({});
+    await AtlasModel.insertMany(docs);
+
+    console.log(`${collectionName} migrated`);
+}
+
+migrateCollection("products");
+

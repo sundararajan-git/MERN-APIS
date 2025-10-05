@@ -14,9 +14,10 @@ const creatApp = async () => {
     const app = express();
     const PORT = process.env.PORT || 8080
 
-    const whiteList = ["http://localhost:5173",]
+    const whiteList = ["http://localhost:5173", "https://emart-5040.firebaseapp.com"]
     const corsOptions = {
         origin: (origin, callback) => {
+            console.log(origin)
             if (whiteList.includes(origin) || !origin) {
                 callback(null, true)
             } else {
