@@ -1,12 +1,12 @@
-import mongoose from "mongoose";
+import { Schema, Types } from "mongoose";
 import { getDB } from "../../config/db.js";
 
-const homepageSchema = new mongoose.Schema({
+const homepageSchema = Schema({
     bestSellers: [
-        { type: mongoose.Schema.Types.ObjectId, ref: "Product" }
+        { type: Types.ObjectId, ref: "Product" }
     ],
     topOffers: [
-        { type: mongoose.Schema.Types.ObjectId, ref: "Product" }
+        { type: Types.ObjectId, ref: "Product" }
     ],
     productSearchQuery: [
         { type: String }
