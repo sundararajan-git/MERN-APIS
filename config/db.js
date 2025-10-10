@@ -7,6 +7,7 @@ export const connectDB = () => {
     try {
         connections.auth = mongoose.createConnection(process.env.MONGO_URI_AUTH)
         connections.emart = mongoose.createConnection(process.env.MONGO_URI_EMART)
+        connections.connect = mongoose.createConnection(process.env.MONGO_URI_CONNECT)
         console.log(`All DBs Connected`);
     } catch (error) {
         console.error(`Error: ${error.message}`);

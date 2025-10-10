@@ -30,7 +30,7 @@ class MailService {
         };
 
         try {
-            // await this.transporter.sendMail(mailOptions);
+            await this.transporter.sendMail(mailOptions);
         } catch (err) {
             throw new Error(err);
         }
@@ -45,7 +45,7 @@ class MailService {
         };
 
         try {
-            // await this.transporter.sendMail(mailOptions);
+            await this.transporter.sendMail(mailOptions);
         } catch (err) {
             throw new Error(err);
         }
@@ -60,7 +60,7 @@ class MailService {
         };
 
         try {
-            // await this.transporter.sendMail(mailOptions);
+            await this.transporter.sendMail(mailOptions);
         } catch (err) {
             throw new Error(err);
         }
@@ -75,7 +75,7 @@ class MailService {
         };
 
         try {
-            // await this.transporter.sendMail(mailOptions);
+            await this.transporter.sendMail(mailOptions);
         } catch (err) {
             throw new Error(err);
         }

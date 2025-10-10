@@ -32,9 +32,11 @@ export const signup = asyncHandler(async (req, res) => {
         } else {
             const subject = "Verify Your Email";
             await MailService.sendVerificationMail(email, subject, exits.verificationToken, software);
+            const safeUser = sanitaize(exits, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
             return res.status(200).json({
                 message: "Verification email resent",
-                status: "RESEND_VERIFICATION"
+                status: "RESEND_VERIFICATION",
+                user: safeUser
             });
         }
     }
@@ -53,8 +55,6 @@ export const signup = asyncHandler(async (req, res) => {
 
     const subject = "Verify Your Email";
     await MailService.sendVerificationMail(email, subject, user.verificationToken, software);
-
-
     const safeUser = sanitaize(user, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
 
     res.status(201).json({ message: "User created successfully", status: "NEW_USER", user: safeUser })
@@ -69,7 +69,7 @@ export const login = asyncHandler(async (req, res) => {
     const user = await User.findOne({ email })
 
     if (!user) {
-        throw new AppError("User not found", 401)
+        throw new AppError("Create account", 401)
     }
 
     const isMatch = await bcrypt.compare(password, user.password)
@@ -86,7 +86,8 @@ export const login = asyncHandler(async (req, res) => {
         }
         const subject = "Verify Your Email";
         await MailService.sendVerificationMail(email, subject, user.verificationToken, software);
-        return res.status(200).json({ message: "Please verify your email to login", status: "RESEND_VERIFICATION" })
+        const safeUser = sanitaize(user, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
+        return res.status(200).json({ message: "Please verify your email to login", status: "RESEND_VERIFICATION", user: safeUser })
     }
 
     if (user.verificationToken) {
@@ -165,7 +166,7 @@ export const forgotPassword = asyncHandler(async (req, res) => {
     await user.save()
 
     const subject = "Forgot password";
-    const link = `${process.env.VITE_APP_URL}/resetpassword/${user.resetPasswordToken}`;
+    const link = `${process.env.VITE_APP_URL}/reset-password/${user.resetPasswordToken}`;
     await MailService.forgotPassword(user.email, subject, link, software);
 
     const safeUser = sanitaize(user, ["_id", "email", "username", "profilePic", "isVerified", "isLogin", "updatedAt"])
